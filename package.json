@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/ngambino0192/DevPlayGround#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "axios": "^0.18.0",
+    "express": "^4.16.3",
+    "pokedex-promise-v2": "^3.1.1"
   }
 }
